@@ -4,7 +4,7 @@
 
 ## clone repo
 
-git@github.com:umarabbas564/FIle-Upload-App.git
+https://github.com/umarabbas564/FIle-Upload-App.git
 
 ## navigate to repo
 
